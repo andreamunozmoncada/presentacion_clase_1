@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(199, 91, 161);
+}
+
+#titulo {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family:"Lucida Calligraphy";
+    font-size: 30px;
+}
+h1 {
+    text-align: center;
+    color: black;
+   font-size: 50px;
+}
+
+.info_1 {
+    background-color: rgb(255, 201, 255);
+    border: solid; 
+    text-align: center; 
+}
+
+#titulo_2{
+    text-align: start;
+    font-size: 35px;
+}
+
+#titulo_3{
+    text-align: start;
+    font-size: 35px;
+}
+
+.contenedor { 
+    font-family:"Times New Romanh" ;
+    height: 3000px;  
+}
+
+.contenedor_1{
+font-size:28px;
+font-family: "Lucida Calligraphy";
+text-align: start;
+}
+
+.contenedor_2{
+    font-size:28px;
+font-family: "Lucida Calligraphy";
+text-align: start;
+
+}
+.boton{
+    color: black;
+    padding: 10px 20px; 
+}
+
+
+
